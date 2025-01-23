@@ -1,0 +1,6 @@
+[package]
+name = "Pinning_to_Stack"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
